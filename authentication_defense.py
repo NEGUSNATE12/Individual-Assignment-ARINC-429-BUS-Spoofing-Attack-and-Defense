@@ -1,7 +1,7 @@
 
 #  defense
 
-import socket, json, hmac, hashlib
+import socket,time, json, hmac, hashlib
 
 class SecureARINC429:
     def __init__(self):
